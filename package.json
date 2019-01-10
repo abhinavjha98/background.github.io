@@ -1,0 +1,23 @@
+{
+  "name": "background.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavjha98/background.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavjha98/background.github.io/issues"
+  },
+  "homepage": "https://github.com/abhinavjha98/background.github.io#readme",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "lodash": "^4.17.10"
+  }
+}
